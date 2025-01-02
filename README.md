@@ -5,7 +5,7 @@
 I'm Vansh Gupta, a results-driven technophile with a deep passion for programming, data analysis, and web development. I thrive on diving into data, uncovering insights, and crafting solutions that solve real-world problems. With expertise as a MERN stack developer and a love for exploring DSA, I bring a unique blend of analytical and technical skills to every challenge. For me, technology is not just a profession but a calling as an opportunity to create solutions that matter. My relentless dedication and motivation to excel drive me to deliver impactful work that makes a tangible difference.
 
 - 🧑🏻‍🎓 Currently pursuing a BTech in Computer Science and Engineering at `Vellore Institute of Technology, Vellore`, Graduation Year: 2025.
-- 🏢 ##Software Developer Intern at `Jio Platforms Limited`, Gurugram, Haryana (September-November 2023).##
+- 🏢 Software Developer Intern at `Jio Platforms Limited`, Gurugram, Haryana (September-November 2023).
   - Developed a PDF generation platform automating creation from JSON data, reducing manual effort by 90%.
   - Automated tag generation in React.js, shifting from manual to computerized processes to enhance efficiency and accuracy.
   - [Completion Certificate](https://bit.ly/vgcc)
@@ -56,17 +56,4 @@ I'm Vansh Gupta, a results-driven technophile with a deep passion for programmin
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whovansh_/)
 
 
-<!--
-**vanshg11/vanshg11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
