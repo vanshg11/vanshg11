@@ -24,11 +24,6 @@ I'm Vansh Gupta, a results-driven technophile with a deep passion for programmin
   - A web app that predicts diseases and provides personalized health recommendations based on user-input symptoms, achieving 95% accuracy.
 
 
-### 🏆 Honors and Awards:
-- Secured **1st** position in NGO BID (**amongst 25+ teams**), a hackathon conducted by FEPSI, VIT Vellore.
-- **Top 8 out of 200+ teams** (online and offline) in Technica Hackathon organized by ISTE, VIT Vellore
-- **Winner (Captain)** of Under-17 and Under-19 Basketball Zonal Level Competitions (amongst 15+ teams).
-
 ### 🧰 Languages and Tools:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -55,6 +50,14 @@ I'm Vansh Gupta, a results-driven technophile with a deep passion for programmin
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshg11)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vanshg11)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+### 🏆 Honors and Awards:
+- Secured **1st** position in NGO BID (**amongst 25+ teams**), a hackathon conducted by FEPSI, VIT Vellore.
+- **Top 8 out of 200+ teams** (online and offline) in Technica Hackathon organized by ISTE, VIT Vellore
+- **Winner (Captain)** of Under-17 and Under-19 Basketball Zonal Level Competitions (amongst 15+ teams).
+
+
 
 ### 🫱🏼‍🫲🏻 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gupta-3a2110200/)
