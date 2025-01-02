@@ -5,10 +5,14 @@
 I'm Vansh Gupta, a results-driven technophile with a deep passion for programming, data analysis, and web development. I thrive on diving into data, uncovering insights, and crafting solutions that solve real-world problems. With expertise as a MERN stack developer and a love for exploring DSA, I bring a unique blend of analytical and technical skills to every challenge. For me, technology is not just a profession but a calling as an opportunity to create solutions that matter. My relentless dedication and motivation to excel drive me to deliver impactful work that makes a tangible difference.
 
 - 🧑🏻‍🎓 Currently pursuing a BTech in Computer Science and Engineering at `Vellore Institute of Technology, Vellore`, Graduation Year: 2025.
-- 🏢 Software Developer Intern at `Jio Platforms Limited`, Gurugram, Haryana (September-November 2023).
+- 🏢 **Software Developer Intern** at `Jio Platforms Limited`, Gurugram, Haryana (September-November 2023).
   - Developed a PDF generation platform automating creation from JSON data, reducing manual effort by 90%.
   - Automated tag generation in React.js, shifting from manual to computerized processes to enhance efficiency and accuracy.
   - [Completion Certificate](https://bit.ly/vgcc)
+
+### ⭐️ Certifications:
+- **[The Complete Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/certificate/UC-2ec4ccab-d87f-42d6-bd1a-67de5897d700/)**
+- **[Python 3: From Beginner to Pro](https://www.udemy.com/certificate/UC-e6088461-28f7-4a69-878d-a5324a66c60f/)**
 
 
 ### 🚀 Projects:
@@ -21,9 +25,9 @@ I'm Vansh Gupta, a results-driven technophile with a deep passion for programmin
 
 
 ### 🏆 Honors and Awards:
-- Secured 1rst position in NGO BID (amongst 25+ teams), a hackathon conducted by FEPSI, VIT Vellore.
-- Top 8 out of 200+ teams (online and offline) in Technica Hackathon organized by ISTE, VIT Vellore
-- Winner (Captain) of Under-17 and Under-19 Basketball Zonal Level Competitions (amongst 15+ teams).
+- Secured **1st** position in NGO BID (**amongst 25+ teams**), a hackathon conducted by FEPSI, VIT Vellore.
+- **Top 8 out of 200+ teams** (online and offline) in Technica Hackathon organized by ISTE, VIT Vellore
+-**Winner (Captain)** of Under-17 and Under-19 Basketball Zonal Level Competitions (amongst 15+ teams).
 
 ### 🧰 Languages and Tools:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
