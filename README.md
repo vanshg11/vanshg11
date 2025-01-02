@@ -5,7 +5,7 @@
 I'm Vansh Gupta, a results-driven technophile with a deep passion for programming, data analysis, and web development. I thrive on diving into data, uncovering insights, and crafting solutions that solve real-world problems. With expertise as a MERN stack developer and a love for exploring DSA, I bring a unique blend of analytical and technical skills to every challenge. For me, technology is not just a profession but a calling as an opportunity to create solutions that matter. My relentless dedication and motivation to excel drive me to deliver impactful work that makes a tangible difference.
 
 - 🧑🏻‍🎓 Currently pursuing a BTech in Computer Science and Engineering at `Vellore Institute of Technology, Vellore`, Graduation Year: 2025.
-- 🏢 #Software Developer Intern at `Jio Platforms Limited`, Gurugram, Haryana (September-November 2023).#
+- 🏢 ##Software Developer Intern at `Jio Platforms Limited`, Gurugram, Haryana (September-November 2023).##
   - Developed a PDF generation platform automating creation from JSON data, reducing manual effort by 90%.
   - Automated tag generation in React.js, shifting from manual to computerized processes to enhance efficiency and accuracy.
   - [Completion Certificate](https://bit.ly/vgcc)
