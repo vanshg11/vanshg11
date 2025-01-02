@@ -27,7 +27,7 @@ I'm Vansh Gupta, a results-driven technophile with a deep passion for programmin
 ### 🏆 Honors and Awards:
 - Secured **1st** position in NGO BID (**amongst 25+ teams**), a hackathon conducted by FEPSI, VIT Vellore.
 - **Top 8 out of 200+ teams** (online and offline) in Technica Hackathon organized by ISTE, VIT Vellore
--**Winner (Captain)** of Under-17 and Under-19 Basketball Zonal Level Competitions (amongst 15+ teams).
+- **Winner (Captain)** of Under-17 and Under-19 Basketball Zonal Level Competitions (amongst 15+ teams).
 
 ### 🧰 Languages and Tools:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
