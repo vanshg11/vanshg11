@@ -16,7 +16,7 @@ I'm Vansh Gupta, a results-driven technophile with a deep passion for programmin
   - Created a MERN stack News Aggregator with real-time news fetched from newsapi.org and a 100% responsive UI.
 - **[Job Seeking Platform](https://github.com/vanshg11/job_application_platform):** React JS, Node JS, Express JS, CSS, MongoDB, Cloudinary API
   - Integrated 2 roles: Employers manage job postings, while job seekers apply, delivering tailored functionality for both.
--  **[Real Time Medication System](https://github.com/vanshg11/streamlit):** Python, Machine Learning, Neural Networks, React JS, CSS
+- **[Real Time Medication System](https://github.com/vanshg11/streamlit):** Python, Machine Learning, Neural Networks, React JS, CSS
   - A web app that predicts diseases and provides personalized health recommendations based on user-input symptoms, achieving 95% accuracy.
 
 
